@@ -5,7 +5,7 @@ export default function Reviews() {
     <main className="w-full text-slate-600 text-left flex flex-col py-2">
       {reviewsArray.map((review, index) => (
         <section className="flex flex-col  p-2 py-3" key={index}>
-          <article className="flex flex-col mx-3 gap-3 bg-gray-50 p-5 rounded-tl-2xl rounded-br-2xl rounded-tr rounded-bl">
+          <article className="flex flex-col mx-3 gap-3 bg-gray-50 p-5 rounded-tl-2xl rounded-br-2xl rounded-tr rounded-bl shadow">
             <aside className="flex gap-3 items-center sm:justify-start">
               <figure>
                 <img

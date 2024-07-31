@@ -11,9 +11,7 @@ export default function Float() {
         />
         <aside className="text-left flex flex-col">
           <h1 className="alkatra md:text-2xl">LiteRECORDS</h1>
-          <p className="text-xs md:text-sm font-light">
-            Founder, Lead Developer
-          </p>
+          <p className="text-xs md:text-sm font-light">Founder, Developer</p>
         </aside>
       </div>
       <div className="flex items-center">

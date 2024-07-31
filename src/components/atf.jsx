@@ -12,13 +12,13 @@ export default function ATF() {
       </section>
       <h1 className="text-5xl font-semibold">Bradley Ashton</h1>A software
       developer from Sheffield
-      <section className="flex flex-row gap-2 my-5 text-gray-600">
+      {/* <section className="flex flex-row gap-2 my-5 text-gray-600">
         <Socials iconSize="45" />
-      </section>
+      </section> */}
       <a
         href="mailto:brad.j.ashton@gmail.com"
         target="_new"
-        className="border-2 border-red-500 hover:border-gray-600 cursor-pointer border-dashed flex py-2 px-3"
+        className="border-2 border-red-500 hover:border-gray-600 cursor-pointer border-dashed flex py-2 px-3 mt-5"
       >
         <p>
           I'm available, click here to{" "}
