@@ -1,22 +1,37 @@
-# Vite React w/ Tailwind CSS & Flowbite
+# brrradley.dev
 
-<img width="640" alt="Screenshot 2023-04-03 at 23 36 58" src="https://user-images.githubusercontent.com/96788931/229644308-9c7be1fc-29f7-42aa-ab0b-4eef60fa8fe2.png">
+Personal developer portfolio and services website built with React and modern frontend tooling. Designed to showcase my projects, technical skills, and professional experience across full-stack development, PWAs, and UI engineering.
 
-This is a skeleton template for Vite, React, Tailwind & Flowbite
+---
 
-### Install
+## Tech Stack
 
-```
-$ npx tiged decafdeveloper/template_vite-react-tailwind-flowbite <your-repo-name>
-$ cd <your-repo-name>
-$ npm install
-$ npm run dev
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Responsive](https://img.shields.io/badge/Mobile--First-000000?style=for-the-badge)
 
-### Resources
+---
 
-- [Vite](https://vitejs.dev/)
-- [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Flowbite](https://flowbite.com)
-- [Tiged](https://github.com/tiged/tiged)
+## Features
+
+• Fully responsive mobile-first design  
+• Project showcase with structured layouts  
+• Clean modern UI using Tailwind  
+• Optimised performance using Vite  
+• Professional services presentation  
+• Lightweight and fast loading  
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/brrradley/brrradley.dev.git
+
+cd brrradley.dev
+
+pnpm install
+
+pnpm dev
